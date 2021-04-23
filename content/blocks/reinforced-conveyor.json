@@ -1,0 +1,14 @@
+{
+  "type": "ArmoredConveyor",
+  "name": "Reinforced Conveyor",
+  "description": "An improved version of the basic conveyor with a extra health but is unable to conect to adyacent blocks",
+  "health": 55,
+  "speed": 0.03,
+  "displaySpeed": 4.2,
+  "requirements": [
+    "copper/1",
+    "graphite/1"
+  ],
+  "research": "conveyor",
+  "category": "distribution"
+}
