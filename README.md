@@ -8,4 +8,4 @@ This repo is to add those ideas that you want in the game but you don't want to 
 
 This mod adds mostly blocks that use the items and liquids already in the game, so no new items or liquids will be added
 
-Only adds [one](content/blocks) item for now, open to new ideas
+Only adds [one](content/blocks) block for now, open to new ideas
