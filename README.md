@@ -1,6 +1,6 @@
 # Convinience-Mod
 
-Because you can't have to0 much convinience
+Because you can't have too much convinience
 
 This repo is to add those ideas that you want in the game but you don't want to be screamed at by the usual people in the [Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions) Repo
 
