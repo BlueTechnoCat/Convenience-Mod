@@ -1,0 +1,16 @@
+{
+  "type": "ArmoredConveyor",
+  "name": "Floating Armored Conveyor",
+  "description": "A floating version of the armored conveyor",
+  "health": 185,
+  "speed": 0.08,
+  "displayedSpeed": 11,
+  "floating": true,
+  "requirements": [
+    "platanium/1",
+    "thorium/1",
+    "metaglass/2"
+  ],
+  "research": "armored-conveyor",
+  "category": "distribution"
+}

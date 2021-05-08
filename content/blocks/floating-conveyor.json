@@ -1,0 +1,15 @@
+{
+  "type": "Conveyor",
+  "name": "Floating Conveyor",
+  "description": "A conveyor capable of floating in water.",
+  "health": 50,
+  "speed": 0.03,
+  "displayedSpeed": 4.2,
+  "floating": true,
+  "requirements": [
+    "copper/1",
+    "metaglass/1"
+  ],
+  "research": "conveyor",
+  "category": "distribution"
+}

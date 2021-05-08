@@ -1,0 +1,17 @@
+{
+  "type": "Conveyor",
+  "name": "Floating Titanium Conveyor",
+  "description": "A version of the titanium conveyor that can float in water.",
+  "health": 70,
+  "speed": 0.08,
+  "displayedSpeed": 11,
+  "floating": true,
+  "requirements": [
+    "copper/1",
+    "lead/1",
+    "titanium/1",
+    "metaglass/1"
+  ],
+  "research": "titanium-conveyor",
+  "category": "distribution"
+}

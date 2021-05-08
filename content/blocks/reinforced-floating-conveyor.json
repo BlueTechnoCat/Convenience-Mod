@@ -1,0 +1,16 @@
+{
+  "type": "ArmoredConveyor",
+  "name": "Reinforced Floating Conveyor",
+  "description": "A reinforced version of the floating conveyor, more resiliant but unable to connect with adyacent blocks.",
+  "health": 60,
+  "speed": 0.03,
+  "displayedSpeed": 4.2,
+  "floating": true,
+  "requirements": [
+    "copper/1",
+    "graphite/1",
+    "metaglass/1"
+  ],
+  "research": "floating-conveyor",
+  "category": "distribution"
+}
