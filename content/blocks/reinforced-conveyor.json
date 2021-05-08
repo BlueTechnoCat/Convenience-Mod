@@ -4,7 +4,7 @@
   "description": "An improved version of the basic conveyor with extra health but is unable to connect to adyacent blocks",
   "health": 55,
   "speed": 0.03,
-  "displaySpeed": 4.2,
+  "displayedSpeed": 4.2,
   "requirements": [
     "copper/1",
     "graphite/1"
