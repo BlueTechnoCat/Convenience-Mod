@@ -1,6 +1,6 @@
 {
   "type": "ArmoredConveyor",
-  "name": "Reinforced Floating Conveyor",
+  "name": "Floating Reinforced Conveyor",
   "description": "A reinforced version of the floating conveyor, more resiliant but unable to connect with adyacent blocks.",
   "health": 60,
   "speed": 0.03,
