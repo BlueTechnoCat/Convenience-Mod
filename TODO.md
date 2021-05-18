@@ -4,9 +4,7 @@
 
 - [ ] Titanium, Plastanium, Phase and Surge Routers and Junctions
 
-- [ ] Titanium, Plastanium, Phase and Surge Liquid Routers 
-
-- [ ] Plastanium, Phase and Surge Conduits
+- [ ] Titanium, Plastanium, Phase and Surge Liquid Routers  and Liquid Junctions
 
 - [ ] Router Randomizer
 
