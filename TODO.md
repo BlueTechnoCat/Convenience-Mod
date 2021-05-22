@@ -34,6 +34,8 @@
 
 - [ ] Pit Trap
 
+- [ ] EMP Mine
+
 - [ ] Bear Trap
 
 - [ ] Oil Barrel
