@@ -5,7 +5,7 @@
   "health": 185,
   "speed": 0.08,
   "displayedSpeed": 11,
-  "floating": true,
+  "placeableLiquid": true,
   "requirements": [
     "plastanium/1",
     "thorium/1",
