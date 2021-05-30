@@ -5,7 +5,7 @@
   "health": 70,
   "speed": 0.08,
   "displayedSpeed": 11,
-  "floating": true,
+  "placeableLiquid": true,
   "requirements": [
     "copper/1",
     "lead/1",
