@@ -9,7 +9,7 @@
     - [ ] Phase Router and Junction: Even Faster, Can deflect Bullets
     - [ ] Surge Router and Junction: Instant transfer, Generates Lightning when hit
 
-- [ ] Titanium, Plastanium, Phase and Surge Liquid Routers  and Liquid Junctions
+- [ ] Titanium, Plastanium, Phase and Surge Liquid Routers and Liquid Junctions
 
     - [ ] Same as above but with liquid routers and liquid junctions 
 
