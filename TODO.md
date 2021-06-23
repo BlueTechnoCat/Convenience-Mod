@@ -13,8 +13,6 @@
 
     - [ ] Same as above but with liquid routers and liquid junctions 
 
-    - [ ] Same as above but with liquid routers and liquid junctions 
-
 - [ ] Router Randomizer: One item comes in, another one comes out (ex: Copper in, lead out; Thorium in Surge out, etc ) 
 
 - [ ] Omega Distributor: 11x11 Router that uses power (let's say 3 power/s)
