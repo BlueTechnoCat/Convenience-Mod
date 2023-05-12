@@ -1,8 +1,8 @@
 {
-  "name": "convinience-mod",
-  "displayName": "Convinience Mod",
-  "description": "Because you can't have too much convinience",
-  "author": "BlueTechno",
+  "name": "convenience-mod",
+  "displayName": "Convenience Mod",
+  "description": "Because you can't have too much convenience",
+  "author": "[blue]Blue[white]Techno",
   "version": 2.0,
   "minGameVersion": 144
 }
