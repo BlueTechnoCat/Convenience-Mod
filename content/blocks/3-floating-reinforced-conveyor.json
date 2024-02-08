@@ -11,6 +11,11 @@
     "graphite/1",
     "metaglass/1"
   ],
-  "research": "2-floating-conveyor",
+  "research": { 
+    "parent": "1-reinforced-conveyor",
+    "objectives": [
+      "2-floating-conveyor"
+    ]
+  },
   "category": "distribution"
 }

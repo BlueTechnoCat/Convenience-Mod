@@ -11,6 +11,11 @@
     "thorium/1",
     "metaglass/2"
   ],
-  "research": "armored-conveyor",
+  "research": {
+    "parent": "armored-conveyor",
+    "objective": [
+      "2-floating-conveyor"
+    ]
+  },
   "category": "distribution"
 }

@@ -12,6 +12,11 @@
     "titanium/1",
     "metaglass/1"
   ],
-  "research": "titanium-conveyor",
+  "research": {
+    "parent": "titanium-conveyor",
+    "objective": [
+      "2-floating-conveyor"
+    ]
+  },
   "category": "distribution"
 }
