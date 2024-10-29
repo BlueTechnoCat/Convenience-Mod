@@ -4,14 +4,14 @@
 
 - [ ] Titanium, Plastanium, Phase and Surge Routers and Junctions
 
-    - [ ] Titanium Router and Junction: No Brainer, faster and bulkier Router and junction
+    - [ ] Titanium Router and Junction: No Brainer, -faster and- bulkier Router and Junction
     - [ ] Plastanium Router and Juncton: Faster than the previous one, Absorbs Lasers
     - [ ] Phase Router and Junction: Even Faster, Can deflect Bullets
     - [ ] Surge Router and Junction: Instant transfer, Generates Lightning when hit
 
 - [ ] Titanium, Plastanium, Phase and Surge Liquid Routers  and Liquid Junctions
 
-    - [ ] Same as above but with liquid routers and liquid junctions 
+    - [ ] Same as above but with liquid routers and liquid junctions
 
 - [ ] Router Randomizer: One item comes in, another one comes out (ex: Copper in, lead out; Thorium in Surge out, etc ) 
 
@@ -25,7 +25,7 @@
 
 - [ ] Surge Alloy Excavator: Extracts surge from the floor every seven(7) seconds or so
 
-- [ ] Slag Extractor: Like a water extractor but for Slag
+- [ ] Slag Extractor: Like a water extractor but for Slag (Faster on heat tiles)
 
 - [ ] Cryofluid Extractor: Like a water extractor but for Cryofluid (Requires snow, ice or ice-snow tiles)
 
@@ -39,7 +39,7 @@
 
 ## Extras (AKA Traps)
 
-- [ ] Pit Trap: insta kills T1 and T2 ground units who fall here (Doesn't affect leg units)
+- [ ] Pit Trap: insta kills T1 and T2 ground units who fall here (Doesn't affect spooder units)
 
 - [ ] EMP Mine: Turns off units and blocks nearby (from the opossite team)
 
