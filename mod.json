@@ -1,15 +1,8 @@
 {
   "name": "convenience-mod",
-<<<<<<< HEAD
   "displayName": "[s[]tat]Convenience[[]] Mod",
   "description": "Because you can't have too much convenience",
   "author": "[#0088f[]f]Blue[[]]Techno",
   "version": 2.1,
-=======
-  "displayName": "Convenience Mod",
-  "description": "Because you can't have too much convenience",
-  "author": "BlueTechno",
-  "version": 2.0,
->>>>>>> 1ccd98038c361c5eff4f4bcea832a8cdff7c516d
   "minGameVersion": 144
 }
